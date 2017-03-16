@@ -16,4 +16,4 @@
 
 * Evaluation_ByNUTS3
 
-#### Hosted here to allow all interested parties to fork and further develop the scripts for their own purposes as required - released under a GNU General Public License (freedom to run, study, share and modify the software as required).
+#### Hosted here to allow all interested parties to fork and further develop the scripts for their own purposes- released under a GNU General Public License (freedom to run, study, share and modify the software as required).
