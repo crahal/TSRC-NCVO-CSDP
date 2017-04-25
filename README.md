@@ -20,5 +20,5 @@
 
 Last Updated: 25/04/2017. To do list:
 
-1. Fully debug `full' match algorithm in Approximate_Functions.
+1. Fully debug 'full' match algorithm in Approximate_Functions.
 2. Setup Approximate_Functions.py to run on [Cuda Python](https://developer.nvidia.com/how-to-cuda-python) (GPU processing) for performance increases.
