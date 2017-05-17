@@ -27,5 +27,3 @@ Last Updated: 25/04/2017. To do list:
   <img src="https://github.com/crahal/TSRC-NCVO-CSDP/blob/master/ICNPO_distribution.png" width="600"> 
 </p>
 
-
-p.s. pie charts are bad.
