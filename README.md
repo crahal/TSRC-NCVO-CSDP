@@ -22,7 +22,7 @@ Last Updated: 06/08/2017. To do list:
 
 1. Fully debug 'full' match algorithm in Approximate_Functions.
 2. Setup Approximate_Functions.py to run on [Cuda Python](https://developer.nvidia.com/how-to-cuda-python) (GPU processing) for performance increases.
-3. Bring in some modular expansions, potentially like [Enamorado et al., 2017](http://imai.princeton.edu/research/linkage.html
+3. Bring in some modular expansions, potentially like [Enamorado et al., 2017](http://imai.princeton.edu/research/linkage.html)
 <br><br>
 <p align="center">
   <img src="https://github.com/crahal/TSRC-NCVO-CSDP/blob/master/ICNPO_distribution.png" width="600"> 
