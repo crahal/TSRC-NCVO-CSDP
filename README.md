@@ -20,11 +20,11 @@
 
 <br><br>
 <p align="center">
-  <img src="https://github.com/crahal/TSRC-NCVO-CSDP/blob/master/distributionovermatches.png" width="650"> 
+  <img src="https://github.com/crahal/TSRC-NCVO-CSDP/blob/master/figures/distributionovermatches.png" width="650"> 
 </p>
 
 <br><br>
 <p align="center">
-  <img src="https://github.com/crahal/TSRC-NCVO-CSDP/blob/master/ICNPO_distribution.png" width="600"> 
+  <img src="https://github.com/crahal/TSRC-NCVO-CSDP/blob/master/figures/ICNPO_distribution.png" width="600"> 
 </p>
 
