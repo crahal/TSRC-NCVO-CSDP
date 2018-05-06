@@ -1,0 +1,1 @@
+Some key functions and code from the paper. Please see the [https://github.com/crahal/centgovspend](https://github.com/crahal/centgovspend) repo for further substantial advancements in this project space.
