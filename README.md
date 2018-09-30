@@ -1,7 +1,7 @@
 # TSRC-NCVO-CSDP
 [![Generic badge](https://img.shields.io/badge/Python-3.6-<red>.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/License-GPL-blue.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/Maintained-No-green.svg)](https://shields.io/)
 
-##### Replication Files for 'Keys to Unlocking Public Payments Data'. A link to the paper can be found [here](https://onlinelibrary.wiley.com/doi/abs/10.1111/kykl.12171). In general this work is being superceded by work on the [centgovspend project](https://github.com/crahal/centgovspend). Contents:
+##### Replication Files for 'Keys to Unlocking Public Payments Data'. A link to the paper can be found [here](https://ora.ox.ac.uk/objects/uuid:1533f006-1ed0-4023-970c-55386d9473ac). In general this work is being superceded by work on the [centgovspend project](https://github.com/crahal/centgovspend). Contents:
 
 * Matching_Script.py
 
