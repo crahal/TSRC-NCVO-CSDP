@@ -1,1 +1,1 @@
-Some key functions and code from the paper. Please see the [https://github.com/crahal/centgovspend](https://github.com/crahal/centgovspend) repo for further substantial advancements in this project space.
+Some key functions and code from the paper. Please see the [https://github.com/crahal/centgovspend](https://github.com/crahal/centgovspend) and [https://github.com/crahal/NHSSpend](https://github.com/crahal/NHSSpend) repos for further advancements in this project space.
